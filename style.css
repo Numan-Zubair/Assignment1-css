@@ -1,0 +1,24 @@
+.head {
+    height: 450px;
+    width: 600px;
+    background-color: #D90012;
+    border: black 2px solid;
+}
+
+.a {
+    height: 150px;
+    width: 600px;
+    background-color: #D90012;
+}
+
+.b {
+    height: 150px;
+    width: 600px;
+    background-color: #0033A0;
+}
+
+.c {
+    height: 150px;
+    width: 600px;
+    background-color: #F2A800; 
+}
